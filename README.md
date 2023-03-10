@@ -1,7 +1,7 @@
-# balitower-technical-challenge
+#LARAVEL-News-with-comment-project
 <ol>
     <li>git clone this repository</li>
-    <li>cd balitower-technical-challenge</li>
+    <li>cd LARAVEL-News-with-comment-project</li>
     <li>composer update</li>
     <li>php artisan passport:install</li>
     <li>php artisan migrate</li>
